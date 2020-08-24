@@ -1,0 +1,11 @@
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\bin\Debug\netcoreapp2.0\QuantumWint.deps.json
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\bin\Debug\netcoreapp2.0\QuantumWint.runtimeconfig.json
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\bin\Debug\netcoreapp2.0\QuantumWint.runtimeconfig.dev.json
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\bin\Debug\netcoreapp2.0\QuantumWint.dll
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\bin\Debug\netcoreapp2.0\QuantumWint.pdb
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\obj\Debug\netcoreapp2.0\QuantumWint.csprojAssemblyReference.cache
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\obj\Debug\netcoreapp2.0\QuantumWint.csproj.CoreCompileInputs.cache
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\obj\Debug\netcoreapp2.0\QuantumWint.AssemblyInfoInputs.cache
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\obj\Debug\netcoreapp2.0\QuantumWint.AssemblyInfo.cs
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\obj\Debug\netcoreapp2.0\QuantumWint.dll
+C:\Users\winty\source\repos\QuantumWint\QuantumWint\obj\Debug\netcoreapp2.0\QuantumWint.pdb
